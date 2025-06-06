@@ -187,18 +187,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Built with Create React App
-- Icons provided by Lucide React
-- Animations powered by Framer Motion
-- Styled with Tailwind CSS
-
-## 📧 Contact
-
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/memory-card-game](https://github.com/yourusername/memory-card-game)
-
 ---
 
 ⭐ Star this repository if you found it helpful!
